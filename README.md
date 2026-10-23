@@ -2,7 +2,7 @@
 
 ![Logo do Mente em Jogo](Assets/Logo_MenteEmJogo_v2.png)
 
-Repositório de distribuição da ferramenta **Mente em Jogo**. Este repositório contém somente instruções de uso e os pacotes de instalação publicados nas [Releases](../../releases); o código-fonte não é distribuído aqui.
+Repositório de distribuição da ferramenta **Mente em Jogo**. Este repositório contém somente instruções de uso e os pacotes de instalação publicados nas [Releases](../../releases);
 
 ## Sobre a aplicação
 
